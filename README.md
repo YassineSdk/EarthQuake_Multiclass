@@ -1,6 +1,3 @@
-Certainly! Here’s a detailed README.md for your project, EarthQuake_Multiclass, based on the context of your PDF report "la-and-california-earthquake-classification.html.pdf".  
-This README provides a clear summary, methodology, and usage instructions tailored for a data science/machine learning audience.
-
 ---
 
 # EarthQuake_Multiclass
