@@ -40,10 +40,8 @@ Data cleaning and preparation steps include handling missing values, encoding ca
 
 3. **Model Selection**
    - Implementation of multiclass classifiers including:
-     - Logistic Regression
      - Random Forest
      - Gradient Boosting
-     - Support Vector Machines
    - Hyperparameter tuning using grid search and cross-validation
 
 4. **Model Evaluation**
@@ -53,7 +51,7 @@ Data cleaning and preparation steps include handling missing values, encoding ca
 5. **Result Interpretation**
    - Analysis of best-performing models
    - Insights into influential features
-   - Limitations and considerations for practical deployment
+
 
 ## Results
 
